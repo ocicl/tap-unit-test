@@ -1,0 +1,10 @@
+* tap-unit-test
+
+Test Anything Protocol reporting for Chris Riesbeck's excellent and very simple lisp-unit package.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/jhanley634/tap-unit-test.git   |
+| commit  | da84f92  |
+| systems | tap-unit-test |
+|---------+-------------------------------------------|
+
